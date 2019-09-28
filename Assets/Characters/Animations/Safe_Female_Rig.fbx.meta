@@ -1,0 +1,475 @@
+fileFormatVersion: 2
+guid: 6dd413fddb75c1e478f96c74fc672ac0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Defualt_Skeleton:Skeleton_rig_Head
+    100002: Defualt_Skeleton:Skeleton_rig_Hips
+    100004: Defualt_Skeleton:Skeleton_rig_LeftArm
+    100006: Defualt_Skeleton:Skeleton_rig_LeftFoot
+    100008: Defualt_Skeleton:Skeleton_rig_LeftForeArm
+    100010: Defualt_Skeleton:Skeleton_rig_LeftHand
+    100012: Defualt_Skeleton:Skeleton_rig_LeftLeg
+    100014: Defualt_Skeleton:Skeleton_rig_LeftShoulder
+    100016: Defualt_Skeleton:Skeleton_rig_LeftToeBase
+    100018: Defualt_Skeleton:Skeleton_rig_LeftUpLeg
+    100020: Defualt_Skeleton:Skeleton_rig_Neck
+    100022: Defualt_Skeleton:Skeleton_rig_Neck1
+    100024: Defualt_Skeleton:Skeleton_rig_RightArm
+    100026: Defualt_Skeleton:Skeleton_rig_RightFoot
+    100028: Defualt_Skeleton:Skeleton_rig_RightForeArm
+    100030: Defualt_Skeleton:Skeleton_rig_RightHand
+    100032: Defualt_Skeleton:Skeleton_rig_RightLeg
+    100034: Defualt_Skeleton:Skeleton_rig_RightShoulder
+    100036: Defualt_Skeleton:Skeleton_rig_RightToeBase
+    100038: Defualt_Skeleton:Skeleton_rig_RightUpLeg
+    100040: Defualt_Skeleton:Skeleton_rig_Spine
+    100042: Defualt_Skeleton:Skeleton_rig_Spine1
+    100044: Defualt_Skeleton:Skeleton_rig_Spine2
+    100046: //RootNode
+    400000: Defualt_Skeleton:Skeleton_rig_Head
+    400002: Defualt_Skeleton:Skeleton_rig_Hips
+    400004: Defualt_Skeleton:Skeleton_rig_LeftArm
+    400006: Defualt_Skeleton:Skeleton_rig_LeftFoot
+    400008: Defualt_Skeleton:Skeleton_rig_LeftForeArm
+    400010: Defualt_Skeleton:Skeleton_rig_LeftHand
+    400012: Defualt_Skeleton:Skeleton_rig_LeftLeg
+    400014: Defualt_Skeleton:Skeleton_rig_LeftShoulder
+    400016: Defualt_Skeleton:Skeleton_rig_LeftToeBase
+    400018: Defualt_Skeleton:Skeleton_rig_LeftUpLeg
+    400020: Defualt_Skeleton:Skeleton_rig_Neck
+    400022: Defualt_Skeleton:Skeleton_rig_Neck1
+    400024: Defualt_Skeleton:Skeleton_rig_RightArm
+    400026: Defualt_Skeleton:Skeleton_rig_RightFoot
+    400028: Defualt_Skeleton:Skeleton_rig_RightForeArm
+    400030: Defualt_Skeleton:Skeleton_rig_RightHand
+    400032: Defualt_Skeleton:Skeleton_rig_RightLeg
+    400034: Defualt_Skeleton:Skeleton_rig_RightShoulder
+    400036: Defualt_Skeleton:Skeleton_rig_RightToeBase
+    400038: Defualt_Skeleton:Skeleton_rig_RightUpLeg
+    400040: Defualt_Skeleton:Skeleton_rig_Spine
+    400042: Defualt_Skeleton:Skeleton_rig_Spine1
+    400044: Defualt_Skeleton:Skeleton_rig_Spine2
+    400046: //RootNode
+    7400000: Sequence
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\n\t'Defualt_Skeleton:Skeleton_rig_Neck1' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Sequence
+      takeName: Take 001
+      firstFrame: 140
+      lastFrame: 1420
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.28456673
+        functionName: Play
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Defualt_Skeleton:Skeleton_rig_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Defualt_Skeleton:Skeleton_rig_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Defualt_Skeleton:Skeleton_rig_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Defualt_Skeleton:Skeleton_rig_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Defualt_Skeleton:Skeleton_rig_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Defualt_Skeleton:Skeleton_rig_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Defualt_Skeleton:Skeleton_rig_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Defualt_Skeleton:Skeleton_rig_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Defualt_Skeleton:Skeleton_rig_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Defualt_Skeleton:Skeleton_rig_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Defualt_Skeleton:Skeleton_rig_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Defualt_Skeleton:Skeleton_rig_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Defualt_Skeleton:Skeleton_rig_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Defualt_Skeleton:Skeleton_rig_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Defualt_Skeleton:Skeleton_rig_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Defualt_Skeleton:Skeleton_rig_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Defualt_Skeleton:Skeleton_rig_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Defualt_Skeleton:Skeleton_rig_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Defualt_Skeleton:Skeleton_rig_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Defualt_Skeleton:Skeleton_rig_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Defualt_Skeleton:Skeleton_rig_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Defualt_Skeleton:Skeleton_rig_Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Safe_Female_Rig(Clone)
+      parentName: 
+      position: {x: -0, y: -0.0114972545, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Defualt_Skeleton:Skeleton_rig_Hips
+      parentName: Safe_Female_Rig(Clone)
+      position: {x: 0.0003140068, y: 1.024441, z: 0.000000016310251}
+      rotation: {x: 0, y: -0, z: -0.00032905265, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Defualt_Skeleton:Skeleton_rig_LeftUpLeg
+      parentName: Defualt_Skeleton:Skeleton_rig_Hips
+      position: {x: -0.09123237, y: -0.06655808, z: -0.0000000014124222}
+      rotation: {x: 0.00007098599, y: -0.0000062971344, z: -0.015866203, w: 0.9998742}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Defualt_Skeleton:Skeleton_rig_LeftLeg
+      parentName: Defualt_Skeleton:Skeleton_rig_LeftUpLeg
+      position: {x: -0.0024359308, y: -0.40602663, z: -0.0000063382904}
+      rotation: {x: 0.000056009103, y: 0.000011702106, z: 0.000008514053, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Defualt_Skeleton:Skeleton_rig_LeftFoot
+      parentName: Defualt_Skeleton:Skeleton_rig_LeftLeg
+      position: {x: 0.0024442023, y: -0.4204125, z: -0.00000010062493}
+      rotation: {x: -0.00012717511, y: -0.000004472398, z: 0.0161867, w: 0.999869}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Defualt_Skeleton:Skeleton_rig_LeftToeBase
+      parentName: Defualt_Skeleton:Skeleton_rig_LeftFoot
+      position: {x: -0.003753353, y: -0.10490034, z: 0.12857088}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Defualt_Skeleton:Skeleton_rig_RightUpLeg
+      parentName: Defualt_Skeleton:Skeleton_rig_Hips
+      position: {x: 0.09127767, y: -0.066576, z: 3.698623e-10}
+      rotation: {x: -0.00022370917, y: -0.0000009761976, z: 0.026152488, w: 0.9996579}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Defualt_Skeleton:Skeleton_rig_RightLeg
+      parentName: Defualt_Skeleton:Skeleton_rig_RightUpLeg
+      position: {x: 0.0024019692, y: -0.40596592, z: -0.000022688242}
+      rotation: {x: 0.00047963968, y: -0.00011050694, z: -0.0000014721098, w: 0.9999999}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Defualt_Skeleton:Skeleton_rig_RightFoot
+      parentName: Defualt_Skeleton:Skeleton_rig_RightLeg
+      position: {x: -0.0024338076, y: -0.42045802, z: 0.000000054498898}
+      rotation: {x: -0.00025862394, y: 0.00009898696, z: -0.025822105, w: 0.9996665}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Defualt_Skeleton:Skeleton_rig_RightToeBase
+      parentName: Defualt_Skeleton:Skeleton_rig_RightFoot
+      position: {x: 0.003747957, y: -0.10492151, z: 0.1285713}
+      rotation: {x: 0, y: -0.000041891268, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Defualt_Skeleton:Skeleton_rig_Spine
+      parentName: Defualt_Skeleton:Skeleton_rig_Hips
+      position: {x: -0.000000007581643, y: 0.099215694, z: 7.0630404e-11}
+      rotation: {x: 0, y: -0, z: -0.00016789719, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Defualt_Skeleton:Skeleton_rig_Spine1
+      parentName: Defualt_Skeleton:Skeleton_rig_Spine
+      position: {x: 0.0000000010924155, y: 0.13347101, z: -0.0000000068790778}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Defualt_Skeleton:Skeleton_rig_Spine2
+      parentName: Defualt_Skeleton:Skeleton_rig_Spine1
+      position: {x: 0.0000000023666498, y: 0.1334711, z: -0.00000000905135}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Defualt_Skeleton:Skeleton_rig_LeftShoulder
+      parentName: Defualt_Skeleton:Skeleton_rig_Spine2
+      position: {x: -0.069472454, y: 0.124603294, z: -0.000000007414215}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Defualt_Skeleton:Skeleton_rig_LeftArm
+      parentName: Defualt_Skeleton:Skeleton_rig_LeftShoulder
+      position: {x: -0.17012197, y: 0.0000013519847, z: -0.0000000017796005}
+      rotation: {x: -0.0026576293, y: -0.041572332, z: 0.0104446, w: 0.99907744}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Defualt_Skeleton:Skeleton_rig_LeftForeArm
+      parentName: Defualt_Skeleton:Skeleton_rig_LeftArm
+      position: {x: -0.22054952, y: 0.000002760807, z: 0.0057072756}
+      rotation: {x: -0.001490246, y: 0.13773285, z: -0.00819641, w: 0.9904344}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Defualt_Skeleton:Skeleton_rig_LeftHand
+      parentName: Defualt_Skeleton:Skeleton_rig_LeftForeArm
+      position: {x: -0.29879466, y: -0.00020626196, z: -0.037026275}
+      rotation: {x: 0.0002437168, y: -0.0000024603999, z: 0.004294422, w: 0.99999076}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Defualt_Skeleton:Skeleton_rig_RightShoulder
+      parentName: Defualt_Skeleton:Skeleton_rig_Spine2
+      position: {x: 0.06947245, y: 0.12460324, z: -0.0000000037972883}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Defualt_Skeleton:Skeleton_rig_RightArm
+      parentName: Defualt_Skeleton:Skeleton_rig_RightShoulder
+      position: {x: 0.106265955, y: 0.000004208085, z: -7.110983e-10}
+      rotation: {x: -0.0153047815, y: 0.08917588, z: -0.03042989, w: 0.99543333}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Defualt_Skeleton:Skeleton_rig_RightForeArm
+      parentName: Defualt_Skeleton:Skeleton_rig_RightArm
+      position: {x: 0.26081118, y: 0.0042818664, z: 0.057939105}
+      rotation: {x: -0.0018046936, y: -0.3376258, z: 0.007401385, w: 0.9412496}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Defualt_Skeleton:Skeleton_rig_RightHand
+      parentName: Defualt_Skeleton:Skeleton_rig_RightForeArm
+      position: {x: 0.27214366, y: 0.010734826, z: -0.12708421}
+      rotation: {x: 0.0017431348, y: 0.000038209477, z: -0.01377046, w: 0.9999037}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Defualt_Skeleton:Skeleton_rig_Neck
+      parentName: Defualt_Skeleton:Skeleton_rig_Spine2
+      position: {x: 0.000000023068427, y: 0.13347422, z: -0.000000038240437}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Defualt_Skeleton:Skeleton_rig_Neck1
+      parentName: Defualt_Skeleton:Skeleton_rig_Neck
+      position: {x: -0.000000027553964, y: 0.09924669, z: 0.000000024334266}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Defualt_Skeleton:Skeleton_rig_Head
+      parentName: Defualt_Skeleton:Skeleton_rig_Neck1
+      position: {x: -0.000000021450248, y: 0.09924718, z: 0.00000010261278}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 1
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
