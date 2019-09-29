@@ -39,12 +39,18 @@ public class Checker : MonoBehaviour
         Debug.DrawLine(transform.position, Target.position);
         if (!Physics.Linecast(transform.position, Target.position))
         {
+            CancelInvoke("HideTarget");
             ObjectToShowIfTargetVisible.SetActive(true);
         }
         else
         {
-            ObjectToShowIfTargetVisible.SetActive(false);
+            Invoke("HideTarget" , 1);           
         }
+    }
+
+    void HideTarget()
+    {
+        ObjectToShowIfTargetVisible.SetActive(false);
     }
 
 } // end class Checker

@@ -12,7 +12,8 @@ public class LookAt : MonoBehaviour
     {
         if (objectToLookAt != null)
         {
-            transform.LookAt(objectToLookAt.transform);
+            transform.LookAt(objectToLookAt.transform , transform.parent.up);
+            //transform.rotation = new Quaternion(transform.rotation.eulerAngles.x, transform.rotation.eulerAngles.y, 0, 0);
         }
     }
 }
